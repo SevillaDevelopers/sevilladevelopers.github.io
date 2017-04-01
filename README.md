@@ -6,6 +6,7 @@
 1. <a href="#what">¿Qué haceis?</a>
 
 <a name="#who" />
+
 ## ¿Qué somos?
 
 Grupo donde se reune la comunidad de desarrolladores de Sevilla.
@@ -16,6 +17,7 @@ Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpi
 Puedes colaborar, haciendo un fork de este repositorio, haciendo los cambios necesarios en él y luego enviando un *pull-request*
 
 <a name="#where" />
+
 ## ¿Dónde encontrarnos?
 1. El sitio principal es el [grupo en Facebook](https://www.facebook.com/groups/sevilladevelopers/). Si no eres miembro, solicita acceso sin problemas.
 La única razón por la que hay que pedir acceso es para evitar que se cuelen perfiles falsos (y eso da tela de trabajo...) No necesitas tener *nivel*, ni 
