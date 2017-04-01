@@ -1,11 +1,9 @@
 # La página de Sevilla Developers
 
-1. <a href="#who">¿Qué somos?</a>
-1. <a href="#where">¿Dónde encontrarnos?</a>
-1. <a href="#how">¿Cómo participar?</a>
-1. <a href="#what">¿Qué haceis?</a>
-
-<a name="#who" />
+1. [¿Qué somos?](#qué-somos)
+1. [¿Dónde encontrarnos?](#dónde-encontrarnos)
+1. [¿Cómo participar?](#cómo-participar)
+1. [¿Qué haceis?](#qué-haceis)
 
 ## ¿Qué somos?
 
@@ -15,8 +13,6 @@ Aquí puedes preguntar lo que quieras sin tener en cuenta "el nivel" de tu pregu
 Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpida es la que no se hace. Eso si, usa el buscador antes para ver si alguien ya ha respondido tu pregunta.
 
 Puedes colaborar, haciendo un fork de este repositorio, haciendo los cambios necesarios en él y luego enviando un *pull-request*
-
-<a name="#where" />
 
 ## ¿Dónde encontrarnos?
 1. El sitio principal es el [grupo en Facebook](https://www.facebook.com/groups/sevilladevelopers/). Si no eres miembro, solicita acceso sin problemas.
