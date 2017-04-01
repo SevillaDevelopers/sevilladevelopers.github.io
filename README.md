@@ -22,7 +22,7 @@ estar trabajando como tal... Los únicos requisitos son:
   * Ser educado (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar)
 1. Tambien estamos en Twitter en [@SevillaDevelope](https://twitter.com/SevillaDevelope)
 1. Tambien puedes añadir este [calendario](https://calendar.google.com/calendar/embed?src=ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com&ctz=Europe/Madrid) donde aparecen todos los eventos de los que nos vamos enterando.
-Si quieres añadirlo a tu Google Calendar, usa este [enlace](ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com)
+Si quieres añadirlo a tu Google Calendar, usa esta direccion ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com
 
 
 
