@@ -7,7 +7,7 @@
 
 ## ¿Qué somos?
 
-Grupo donde se reune la comunidad de desarrolladores de Sevilla.
+Intentamos englobar a las comunidades tecnológicas que se encuentran localizadas en Sevilla y su provincia
 Nos da igual el nivel que tengas, todos y todas sois bienvenidos.
 Aquí puedes preguntar lo que quieras sin tener en cuenta "el nivel" de tu pregunta. 
 Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpida es la que no se hace. Eso si, usa el buscador antes para ver si alguien ya ha respondido tu pregunta.
@@ -20,8 +20,9 @@ La única razón por la que hay que pedir acceso es para evitar que se cuelen pe
 estar trabajando como tal... Los únicos requisitos son:
   * Tener ganas de aprender
   * Ser educado (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar)
-1. Tambien estamos en [Twitter](https://twitter.com/SevillaDevelope)
-1. Tambien puedes añadir este [calendario](https://calendar.google.com/calendar/ical/ct56tngo8t0daam8nhfvoapk1c%40group.calendar.google.com/public/basic.ics) donde aparecen todos los eventos de los que nos vamos enterando
+1. Tambien estamos en Twitter en [@SevillaDevelope](https://twitter.com/SevillaDevelope)
+1. Tambien puedes añadir este [calendario](https://calendar.google.com/calendar/embed?src=ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com&ctz=Europe/Madrid) donde aparecen todos los eventos de los que nos vamos enterando.
+Si quieres añadirlo a tu Google Calendar, usa este [enlace](ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com)
 
 
 
