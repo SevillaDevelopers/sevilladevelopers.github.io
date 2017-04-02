@@ -22,7 +22,7 @@ Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpi
 La única razón por la que hay que pedir acceso es para evitar que se cuelen perfiles falsos (y eso da tela de trabajo...) No necesitas tener *nivel*, ni 
 estar trabajando como tal... Los únicos requisitos son:
     * Tener ganas de aprender
-    * Ser educado (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar)
+    * Ser educado (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar. [Aquí](http://berlincodeofconduct.org/es/) tienes más información al respecto)
 1. Tambien estamos en Twitter en [@SevillaDevelope](https://twitter.com/SevillaDevelope)
 1. Puedes añadir este [calendario](https://calendar.google.com/calendar/embed?src=ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com&ctz=Europe/Madrid) 
 donde aparecen todos los eventos de los que nos vamos enterando.
