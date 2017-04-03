@@ -34,7 +34,7 @@ Si quieres añadirlo a tu Google Calendar, usa esta direccion ct56tngo8t0daam8nh
 * Comparte información que te parezca interesante y sea relevante al grupo (es decir, por mucho que la última cadena de gatitos que te han pasado sea monísima, intenta no compartirla ^_^).
 * Propón temas que te gustaria que se vieran en mayor profundidad.
 * Si tienes una charla preparada y te gustaria darla pero no sabes donde ni cómo, dilo.
-* ¿Quieres mejorar la página? Haz un fork de este repositorio, haz los cambios necesarios en él y luego envia un *pull-request* 
+* ¿Quieres mejorar la página? Haz un fork de [este repositorio](https://github.com/SevillaDevelopers/sevilladevelopers.github.io), haz los cambios necesarios en él y luego envia un *pull-request* 
 * Si eres el coordinador o coordinadora de alguna comunidad y quieres que tus eventos aparezcan en el calendario, mándanos un correo a contacto@sevilladevelopers.com para que podamos darte permisos para que puedas subirlos.
 * ¿Hay algo que no esta cubierto en los puntos de arriba? Proponlo en el grupo.
 
@@ -46,4 +46,4 @@ A falta de un nombre mejor, aquí iremos recopilando enlaces a:
 
 El único requisito (por ahora) es que este hecho por gente de aquí. Y en *gente de aquí* puntuan tanto los nacidos como los que viven.
 
-Haz un fork de este repositorio, haz los cambios necesarios en él y luego envia un *pull-request* para que aparezca tu aportación.
+Haz un fork de [este repositorio](https://github.com/SevillaDevelopers/sevilladevelopers.github.io), haz los cambios necesarios en él y luego envia un *pull-request* para que aparezca tu aportación.
