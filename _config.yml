@@ -1,0 +1,15 @@
+title: Sevilla Developers User Group
+description: The landing page for Sevilla Developers User Group
+url: "http://sevilladevelopers.github.io"
+
+# Google Analytics Code
+codega: UA-96791038-1
+
+# Build settings
+markdown: kramdown
+exclude: ['README.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'package.json', 'assets/css/vendor']
+
+# Sass settings
+sass:
+  sass_dir: assets/css
+  style: :compressed

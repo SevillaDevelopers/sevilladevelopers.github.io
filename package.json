@@ -1,0 +1,9 @@
+{
+  "name": "sevilladevelopers",
+  "version": "1.0.0",
+  "homepage": "http://sevilladevelopers.github.io",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "install": "bundle install"
+  }
+}

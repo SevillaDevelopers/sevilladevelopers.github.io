@@ -1,0 +1,107 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+/*
+Theme Name: Symfony Skeleton
+Description: Skeleton is the simplest way to use Symfony framework with the basics bundles installed
+Version: 1.0
+Author: Miguel Ángel Martin @miguelbemartin
+Author URI: http://www.miguelangelmartin.me
+*/
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:400,700";
+
+body{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  h1, h2, h3, h4{
+    font-weight: 900;
+    color: #444;
+  }
+  h2{
+      font-family: "Roboto Condensed", sans-serif;
+      font-weight: 700;
+      font-size: 35px;
+  }
+  h3{
+      font-family: "Roboto Condensed", sans-serif;
+      font-weight: 700;
+      font-size: 25px;
+  }
+
+  header{
+    background-color: #213256;
+    background-image: url(../img/header-background.png);
+    @media (max-width: 600px) { text-align: center; }
+    .nav{
+      padding-top: 30px;
+      ul{
+        list-style: none;
+        float: right;
+        li{
+          float: left;
+          margin-left: 15px;
+          a{
+            font-family: "Roboto Condensed", sans-serif;
+            font-weight: 700;
+            color:#FFFFFF;
+          }
+        }
+      }
+    }
+
+    #banner{
+      .index-banner{
+        text-align: center;
+        padding-bottom: 50px;
+        img{
+          width: 150px;
+          margin-top: 30px;
+        }
+        h1{
+          font-size: 39px;
+          line-height: 50px;
+          font-weight: 100;
+          margin-top: 20px;;
+          color: #FFFFFF;
+          strong{
+            font-weight: 900;
+          }
+        }
+      }
+    }
+  }
+
+
+  a.btn{
+    background-color: #3DB884;
+    &:hover{
+        background-color: #3FC48C;
+    }
+  }
+
+
+  #login{
+    padding-top: 150px;
+    min-height: 500px;
+    input[type="submit"]{
+      background-color: #3ECF8E;
+    }
+  }
+  footer{
+    color: #fff;
+  }
+  .page-footer{
+    background-color: #3a5795;
+  }
+  .footer-copyright{
+      background-color: #3a5795;
+      height: 80px;
+      line-height: 80px;
+      a{
+        color: #fff;
+      }
+  }
+}
