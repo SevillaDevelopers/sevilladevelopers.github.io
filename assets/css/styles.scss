@@ -1,13 +1,6 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-/*
-Theme Name: Symfony Skeleton
-Description: Skeleton is the simplest way to use Symfony framework with the basics bundles installed
-Version: 1.0
-Author: Miguel Ángel Martin @miguelbemartin
-Author URI: http://www.miguelangelmartin.me
-*/
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
@@ -62,6 +55,7 @@ body{
         text-align: center;
         padding-bottom: 50px;
         img{
+          width: 100%;
           margin-top: 30px;
         }
         h1{
