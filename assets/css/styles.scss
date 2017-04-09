@@ -38,7 +38,6 @@ body{
 
   header{
     background-color: #213256;
-    background-image: url(../img/header-background.png);
     @media (max-width: 600px) { text-align: center; }
     .nav{
       padding-top: 30px;
@@ -63,7 +62,6 @@ body{
         text-align: center;
         padding-bottom: 50px;
         img{
-          width: 150px;
           margin-top: 30px;
         }
         h1{
@@ -100,10 +98,9 @@ body{
     color: #fff;
   }
   .page-footer{
-    background-color: #3a5795;
+    background-color: #213256;
   }
   .footer-copyright{
-      background-color: #3a5795;
       height: 80px;
       line-height: 80px;
       a{
