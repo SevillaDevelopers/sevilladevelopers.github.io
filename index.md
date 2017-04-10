@@ -25,10 +25,10 @@ Y por último nuestros recursos, bases de datos, contactos y referencias que int
 ## ¿Dónde encontrarnos?
 
 1. El sitio principal es el [grupo en Facebook](https://www.facebook.com/groups/sevilladevelopers/). Si no eres miembro, solicita acceso sin problemas.
-La única razón por la que hay que pedir acceso es para evitar que se cuelen perfiles falsos (y eso da tela de trabajo...) No necesitas tener *nivel*, ni
+La única razón por la que hay que pedir acceso es para evitar que se cuelen perfiles falsos. No necesitas tener *nivel*, ni
 estar trabajando como tal... Los únicos requisitos son:
     * Tener ganas de aprender
-    * Ser educado (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar. [Aquí](http://berlincodeofconduct.org/es/) tienes más información al respecto)
+    * Ser una persona educada (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar. [Aquí](http://berlincodeofconduct.org/es/) tienes más información al respecto)
 Aquí puedes preguntar lo que quieras sin tener en cuenta "el nivel" de tu pregunta.Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpida es la que no se hace. Eso si, usa el buscador antes para ver si alguien ya ha respondido tu pregunta.
 1. Tambien estamos en Twitter en [@SevillaDevelope](https://twitter.com/SevillaDevelope)
 1. Puedes añadir este [calendario](https://calendar.google.com/calendar/embed?src=ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com&ctz=Europe/Madrid)
@@ -42,15 +42,18 @@ Si quieres añadirlo a tu Google Calendar, usa esta direccion ct56tngo8t0daam8nh
 * Comparte información que te parezca interesante y sea relevante para el grupo (es decir, por mucho que la última cadena de gatitos que te han pasado sea monísima, intenta no compartirla ^_^).
 * Propón temas que te gustaria que se vieran en mayor profundidad.
 * Si tienes una charla preparada y te gustaria darla pero no sabes donde ni cómo, dilo.
+* Tanto si estás buscando empleo como si estás buscando profesionales, entra a nuestro grupo de ofertas de trabajo donde se publican oportunidades (El requisito fundamental para anunciantes es que se anote el salario y para el resto es del no comentar a no ser que te interese la oferta, para evitar ruido): [SevillaDevelopersJobs](https://www.facebook.com/groups/SevillaDevelopersJobs/)
 * ¿Quieres mejorar la página? Haz un fork de [este repositorio](https://github.com/SevillaDevelopers/sevilladevelopers.github.io), haz los cambios necesarios en él y luego envia un *pull-request*
+* El campo de las ideas está bien, pero el de la acción está aún mejor: siempre necesitamos algo de ayuda para sacar adelante algún evento: organización, voluntariado, transporte, una regleta, un proyector...levanta la mano si tienes disponibilidad. 
 * ¿Hay algo que no esta cubierto en los puntos de arriba? Proponlo en el grupo.
 
 ## Cosas que hace la gente en Sevilla
-A falta de un nombre mejor, aquí iremos recopilando enlaces a:
+
+Es importante promover y dar visibilidad a las actividades de las personas que forman parte de nuestra comunidad, así que hemos preparado una sección para promover nuestras diferentes aportaciones. Aquí iremos recopilando enlaces a:
+
 * Proyectos de código abierto.
 * Aplicaciones/productos en los que hayais participado y querais dar a conocer.
 * Blogs en los que participas.
 
-El único requisito (por ahora) es que este hecho por gente de aquí. Y en *gente de aquí* puntuan tanto los nacidos como los que viven.
+El único requisito (por ahora) es que este hecho por personas de aquí. Y en *personas de aquí* puntuan tanto las nacidas como las que viven. Somos tierra de acogida. 
 
-Haz un fork de [este repositorio](https://github.com/SevillaDevelopers/sevilladevelopers.github.io), haz los cambios necesarios en él y luego envia un *pull-request* para que aparezca tu aportación.
