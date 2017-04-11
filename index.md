@@ -15,7 +15,7 @@ De una forma más directa, podemos decir que SevillaDevelopers es un iniciativa 
 
 En primer lugar, intentamos englobar a las comunidades tecnológicas que se encuentran localizadas en Sevilla y su provincia: El grupo de usuarios de Java, Geoinquietxs, DrupalSevilla, PHPSevilla, el grupo de metodologías y gestión de proyectos...entre varios más y muchos otros que están todavía por nacer. Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos conozcamos entre sí. 
 
-En segundo lugar, nos gusta favorecer el conocimiento compartido y el aprendizaje.No importa el nivel que tengas (o creas tener) todos y todas sois bienvenidos. Lo importante es encontrarnos, reconocernos y vincularnos.
+En segundo lugar, nos gusta favorecer el conocimiento compartido y el aprendizaje. No importa el nivel que tengas (o creas tener) todos y todas sois bienvenidos. Lo importante es encontrarnos, reconocernos y vincularnos.
 
 En tercer lugar, organizamos citas periódicas de caracter transversal donde nos reunamos y compartamos nuestras experiencias. De ahí nacen nuestras iniciativas SevillaDevelopers Conference (svqdc) y las futuras citas SevillaDevelopers-Lite. 
 
