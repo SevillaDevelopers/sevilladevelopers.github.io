@@ -93,6 +93,11 @@ body{
   }
   .page-footer{
     background-color: #213256;
+    a{
+      color: #fff;
+      font-weight: 400;
+      text-decoration: underline;
+    }
   }
   .footer-copyright{
       height: 80px;
