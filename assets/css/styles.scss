@@ -6,6 +6,12 @@
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
 @import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:100,200,400,700";
 
+@media only screen and (min-width: 1200px) {
+  html {
+    font-size: 18px;
+  }
+}
+
 body{
   font-family: "Roboto", sans-serif;
   font-weight: 100;
