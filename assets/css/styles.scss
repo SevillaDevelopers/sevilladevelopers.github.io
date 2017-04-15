@@ -7,9 +7,11 @@
 @import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:100,200,400,700";
 
 @media only screen and (min-width: 1200px) {
-  html {
-    font-size: 18px;
-  }
+  html { font-size: 18px; }
+}
+
+@media only screen and (max-width: 1199px) {
+  html { font-size: 16px; }
 }
 
 body {
@@ -50,8 +52,11 @@ body {
       ul {
         display: flex;
         float: right;
+        flex-flow: row wrap;
         justify-content: center;
         list-style: none;
+        margin-left: 0px;
+        padding-left: 0px;
         white-space: nowrap;
 
         li {
@@ -94,7 +99,7 @@ body {
     }
   }
 
-  section {
+  #features {
     margin-bottom: 4em;
   }
 
