@@ -22,8 +22,8 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
     * [DrupalSevilla](https://groups.drupal.org/sevilla)
     * [PHPSevilla](https://www.meetup.com/es/PHP-Sevilla/)
     * [OWASP Sevilla](https://www.owasp.org/index.php/Sevilla)
-    * [El grupo de metodologías y gestión de proyectos](https://www.meetup.com/es-ES/gesprosev/)
-    * [El grupo de Docker Sevilla](https://www.meetup.com/es-ES/Docker-Sevilla/)
+    * [Metodologías y gestión de proyectos](https://www.meetup.com/es-ES/gesprosev/)
+    * [Docker Sevilla](https://www.meetup.com/es-ES/Docker-Sevilla/)
     * Y muchos otros que están todavía por nacer.
 
     > Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos encontremos y conozcamos.
