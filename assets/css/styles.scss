@@ -4,23 +4,25 @@
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
-@import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:100,200,400,700";
+@import "https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:300,500";
+
+html {
+  color: #222222;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
 
 body{
-  font-family: "Roboto", sans-serif;
-  font-weight: 100;
-  h1, h2, h3, h4{
-    font-weight: 900;
+  h2, h3, h4{
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 700;
     color: #444;
   }
   h2{
-      font-family: "Roboto Condensed", sans-serif;
-      font-weight: 700;
       font-size: 35px;
   }
   h3{
-      font-family: "Roboto Condensed", sans-serif;
-      font-weight: 700;
       font-size: 25px;
   }
   ul, ul:not(.browser-default), ul li, ul:not(.browser-default) li{
@@ -61,11 +63,11 @@ body{
         h1{
           font-size: 39px;
           line-height: 50px;
-          font-weight: 100;
+          font-weight: 200;
           margin-top: 20px;;
           color: #FFFFFF;
           strong{
-            font-weight: 900;
+            font-weight: 500;
           }
         }
       }
@@ -79,7 +81,7 @@ body{
     background-color: #213256;
     a{
       color: #fff;
-      font-weight: 400;
+      font-weight: 300;
       text-decoration: underline;
     }
   }
