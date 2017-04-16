@@ -27,7 +27,6 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 
     > Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos encontremos y conozcamos.
 
-
 1. Impulsamos el conocimiento compartido y el aprendizaje. No importa el nivel que tengas *o creas tener*; **todos y todas sois bienvenidos**. Lo importante es encontrarnos, reconocernos y vincularnos.
 
 1. Organizamos **citas periódicas de caracter transversal** donde nos reunamos y compartamos nuestras experiencias. De ahí nacen nuestras iniciativas SevillaDevelopers Conference (svqdc) y las futuras citas SevillaDevelopers-Lite.
@@ -67,7 +66,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 Es importante promover y dar visibilidad a las actividades de las personas que forman parte de nuestra comunidad, así que hemos preparado una sección para promover nuestras diferentes aportaciones. Aquí iremos recopilando enlaces a:
 
 * Proyectos de código abierto.
-* Aplicaciones/productos en los que hayais participado y querais dar a conocer.
+* Aplicaciones/productos en los que hayáis participado y queráis dar a conocer.
 * Blogs en los que participas.
 
 El único requisito (por ahora) es que este hecho por personas de aquí. Y en *personas de aquí* puntuan tanto las nacidas como las que viven. Somos tierra de acogida.

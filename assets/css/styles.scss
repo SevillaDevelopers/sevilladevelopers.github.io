@@ -4,7 +4,7 @@
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
-@import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:400,700";
+@import "https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:100,200,400,700";
 
 body{
   font-family: "Roboto", sans-serif;
@@ -72,27 +72,16 @@ body{
     }
   }
 
-
-  a.btn{
-    background-color: #3DB884;
-    &:hover{
-        background-color: #3FC48C;
-    }
-  }
-
-
-  #login{
-    padding-top: 150px;
-    min-height: 500px;
-    input[type="submit"]{
-      background-color: #3ECF8E;
-    }
-  }
   footer{
     color: #fff;
   }
   .page-footer{
     background-color: #213256;
+    a{
+      color: #fff;
+      font-weight: 400;
+      text-decoration: underline;
+    }
   }
   .footer-copyright{
       height: 80px;
