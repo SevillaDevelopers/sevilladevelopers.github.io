@@ -40,7 +40,8 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 
     La única razón por la que hay que pedir acceso es para evitar que se cuelen perfiles falsos. No necesitas tener *nivel*, ni estar trabajando como tal... Los únicos requisitos son:
     * Tener ganas de aprender
-    * Ser una persona educada (No siendo un troll, respetando otras opiniones y tratar siempre de ayudar. [Aquí](http://berlincodeofconduct.org/es/) tienes más información al respecto)
+    * Ser una persona educada (no siendo un troll, respetando otras opiniones y tratar siempre de ayudar). 
+    * Para arbitrar conflictos, nos apoyamos en este [Código de Conducta](http://berlincodeofconduct.org/es/).
 
     Aquí puedes preguntar lo que quieras sin tener en cuenta *el nivel* de tu pregunta. Todos y todas hemos empezado alguna vez y sabemos que la única pregunta estúpida es la que no se hace. Eso si, usa el buscador antes para ver si alguien ya ha respondido tu pregunta.
 
