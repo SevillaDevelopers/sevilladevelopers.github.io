@@ -13,7 +13,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 
 > De una forma más directa: SevillaDevelopers es un iniciativa sin ánimo de lucro, abierta y horizontal que, a modo de paraguas, puede ayudarte a construir tu propia iniciativa facilitándote recursos, contactos, experiencias y por supuesto, la ayuda directa de compañeras y compañeros del sector.
 
-## Cómo lo hacemos
+## ¿Cómo lo hacemos?
 
 1. Intentamos englobar a las comunidades tecnológicas que se encuentran localizadas en Sevilla y su provincia:
 
@@ -33,7 +33,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 
 1. Ofrecemos nuestros recursos, bases de datos, contactos y referencias que intentamos tener actualizados y disponibles para apoyar cualquier iniciativa. ¿Necesitas un lugar para organizar una quedada? tenemos algunas referencias útiles.
 
-## Dónde encontrarnos
+## ¿Dónde encontrarnos?
 
 1. El sitio principal es el [grupo en Facebook](https://www.facebook.com/groups/sevilladevelopers/). Si no eres miembro, solicita acceso sin problemas.
 
@@ -50,7 +50,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 
     > Si coordinas alguna comunidad y quieres que vuestros eventos aparezcan en el calendario, [mándanos un correo](mailto://contacto@sevilladevelopers.com) indicándonos la comunidad para que podamos darte permisos para que puedas subirlos.
 
-## Cómo colaborar
+## ¿Cómo colaborar?
 
 * Pregunta lo que no sepas en el grupo.
 * Comparte información que te parezca interesante y sea relevante para el grupo (es decir, por mucho que la última cadena de gatitos que te han pasado sea monísima, intenta no compartirla ^_^).
