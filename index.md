@@ -48,8 +48,11 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 1. Tambien estamos en Twitter en [@SevillaDevelope](https://twitter.com/SevillaDevelope)
 
 1. Puedes añadir este [calendario](https://calendar.google.com/calendar/embed?src=ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com&ctz=Europe/Madrid) donde aparecen todos los eventos de los que nos vamos enterando.
-    > Si quieres añadirlo a tu Google Calendar, usa esta direccion: ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com
-
+    > Si quieres añadirlo a tu Google Calendar, usa esta direccion: 
+    ```
+    ct56tngo8t0daam8nhfvoapk1c@group.calendar.google.com
+    ```
+    
     > Si coordinas alguna comunidad y quieres que vuestros eventos aparezcan en el calendario, [mándanos un correo](mailto://contacto@sevilladevelopers.com) indicándonos la comunidad para que podamos darte permisos para que puedas subirlos.
 
 ## ¿Cómo colaborar?
