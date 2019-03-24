@@ -18,12 +18,27 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 1. Intentamos englobar a las comunidades tecnológicas que se encuentran localizadas en Sevilla y su provincia:
 
     * [El grupo de usuarios de Java](https://www.meetup.com/es/SVQJUG/)
-    * [Geoinquietxs](http://geoinquietos.org/grupos/sevilla/)
+    * [Geoinquietxs](https://www.meetup.com/es-ES/Geoinquietos-Sevilla/)
     * [DrupalSevilla](https://groups.drupal.org/sevilla)
     * [PHPSevilla](https://www.meetup.com/es/PHP-Sevilla/)
     * [OWASP Sevilla](https://www.owasp.org/index.php/Sevilla)
     * [Metodologías y gestión de proyectos](https://www.meetup.com/es-ES/gesprosev/)
     * [Docker Sevilla](https://www.meetup.com/es-ES/Docker-Sevilla/)
+	* [Sevilla Salesforce Developer Group](https://trailblazercommunitygroups.com/sevilla-es-developers-group/)
+	* [Sevilla Ruby On Rails](https://www.meetup.com/es-ES/Sevilla-Ruby-On-Rails-Meetup/)
+	* [WordPress Sevilla](http://www.meetup.com/WordPress-Sevilla)
+	* [Sevilla Xamarin Developer Group](http://www.meetup.com/SevillaXamarinDevelopers)
+	* [Python Sevilla](http://www.meetup.com/Python-Sevilla/)
+	* [GDG Sevilla](http://www.meetup.com/GDGSevilla/)
+	* [Cartuja.NET](https://www.meetup.com/es-ES/Cartuja-NET/)
+	* [Sevilla R](https://sevillarusers.netlify.com/)
+	* [Sevilla JS](https://www.meetup.com/es-ES/sevilla-js/)
+	* [Sevilla QA](https://www.meetup.com/es-ES/sevillaQA)
+	* [Databeers Sevilla](https://www.meetup.com/es-ES/Databeers-Sevilla/)
+	* [Ethereum Sevilla](https://www.meetup.com/es-ES/Ethereum-Meetup-Sevilla/)
+	* [Ping a Programadoras!](https://pingprogramadoras.org/)
+	* [The Things Network Sevilla](https://www.thethingsnetwork.org/community/sevilla)
+	* [Sevilla Maker Society](https://www.meetup.com/es-ES/Maker-Society/)	
     * Y muchos otros que están todavía por nacer.
 
     > Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos encontremos y conozcamos.
