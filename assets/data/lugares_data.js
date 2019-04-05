@@ -58,5 +58,10 @@ lugares =
             "name": "Café Envidia",
             "latlong": [37.391470, -5.978881],
             "recommended_by": "Dani Ramírez (@kroketen)"
+        },
+	{
+            "name": "La Colmena",
+            "latlong": [37.379542, -6.070329],
+            "recommended_by": "Wimel (@wimel85)"
         }
     ];
