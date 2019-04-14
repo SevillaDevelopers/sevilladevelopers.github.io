@@ -2,19 +2,19 @@
 var lugaresMap = L.map('lugaresmap').setView([51.505, -0.09], 13);
 
 var trabajoIcon = L.icon({
-	// attribution: https://es.wikipedia.org/wiki/Archivo:Map_pin_icon.svg
-	iconUrl: 'assets/img/blue_pin.svg',
-	iconSize: [30,40],
-	iconAnchor: [12,40],
+    // attribution: https://es.wikipedia.org/wiki/Archivo:Map_pin_icon.svg
+    iconUrl: 'assets/img/blue_pin.svg',
+    iconSize: [30,40],
+    iconAnchor: [12,40],
     popupAnchor: [3,-39]
 });
 
 
 var eventosIcon = L.icon({
-	// attribution: https://es.wikipedia.org/wiki/Archivo:Map_pin_icon.svg
-	iconUrl: 'assets/img/red_pin.svg',
-	iconSize: [30,40],
-	iconAnchor: [12,40],
+    // attribution: https://es.wikipedia.org/wiki/Archivo:Map_pin_icon.svg
+    iconUrl: 'assets/img/red_pin.svg',
+    iconSize: [30,40],
+    iconAnchor: [12,40],
     popupAnchor: [3,-39]
 });
 
@@ -24,7 +24,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(lugaresMap);
 
 lugares_trabajo.forEach(lugar => {
-	L.marker(lugar.latlong, {icon: trabajoIcon}).addTo(lugaresMap)
+    L.marker(lugar.latlong, {icon: trabajoIcon}).addTo(lugaresMap)
         .bindPopup(lugar.name);
 });
 
