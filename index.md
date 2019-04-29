@@ -18,7 +18,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
 1. Intentamos englobar a las comunidades tecnológicas que se encuentran localizadas en Sevilla y su provincia:
 
     * [El grupo de usuarios de Java](https://www.meetup.com/es/SVQJUG/)
-    * [Geoinquietxs](https://www.meetup.com/es-ES/Geoinquietos-Sevilla/)
+    * [Geoinquietes](https://www.meetup.com/es-ES/Geoinquietos-Sevilla/)
     * [DrupalSevilla](https://groups.drupal.org/sevilla)
     * [PHPSevilla](https://www.meetup.com/es/PHP-Sevilla/)
     * [OWASP Sevilla](https://www.owasp.org/index.php/Sevilla)
