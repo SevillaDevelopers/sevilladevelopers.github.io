@@ -7,7 +7,7 @@ permalink   : /
 
 # ¿Qué es SevillaDevelopers?
 
-**SevillaDevelopers**, o **svqdev** es una iniciativa colectiva para agrupar a las diferentes comunidades y grupos tecnológicos locales de nuestro entorno.
+**SevillaDevelopers**, **SVQtech** o **svqdev** es una iniciativa colectiva para agrupar a las [diferentes comunidades y grupos tecnológicos locales](https://tinyurl.com/SVQtech) de nuestro entorno.
 
 Es una herramienta para todas las comunidades que nos dota de una articulación común bajo la que podemos llegar más lejos y **aunar fuerzas** en la promoción del talento local. Todo ésto dentro del marco de los valores positivos del **aprendizaje colectivo** y buscando **una identidad común**: *un nosotros-nosotras que ponga el valor el activismo desplegado los últimos años en nuestro entorno directo respecto a la tecnología*.
 
@@ -24,21 +24,21 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
     * [OWASP Sevilla](https://www.owasp.org/index.php/Sevilla)
     * [Metodologías y gestión de proyectos](https://www.meetup.com/es-ES/gesprosev/)
     * [Docker Sevilla](https://www.meetup.com/es-ES/Docker-Sevilla/)
-	* [Sevilla Salesforce Developer Group](https://trailblazercommunitygroups.com/sevilla-es-developers-group/)
-	* [Sevilla Ruby On Rails](https://www.meetup.com/es-ES/Sevilla-Ruby-On-Rails-Meetup/)
-	* [WordPress Sevilla](http://www.meetup.com/WordPress-Sevilla)
-	* [Sevilla Xamarin Developer Group](http://www.meetup.com/SevillaXamarinDevelopers)
-	* [Python Sevilla](http://www.meetup.com/Python-Sevilla/)
-	* [GDG Sevilla](http://www.meetup.com/GDGSevilla/)
-	* [Cartuja.NET](https://www.meetup.com/es-ES/Cartuja-NET/)
-	* [Sevilla R](https://sevillarusers.netlify.com/)
-	* [Sevilla JS](https://www.meetup.com/es-ES/sevilla-js/)
-	* [Sevilla QA](https://www.meetup.com/es-ES/sevillaQA)
-	* [Databeers Sevilla](https://www.meetup.com/es-ES/Databeers-Sevilla/)
-	* [Ethereum Sevilla](https://www.meetup.com/es-ES/Ethereum-Meetup-Sevilla/)
-	* [Ping a Programadoras!](https://pingprogramadoras.org/)
-	* [The Things Network Sevilla](https://www.thethingsnetwork.org/community/sevilla)
-	* [Sevilla Maker Society](https://www.meetup.com/es-ES/Maker-Society/)	
+    * [Sevilla Salesforce Developer Group](https://trailblazercommunitygroups.com/sevilla-es-developers-group/)
+    * [Sevilla Ruby On Rails](https://www.meetup.com/es-ES/Sevilla-Ruby-On-Rails-Meetup/)
+    * [WordPress Sevilla](http://www.meetup.com/WordPress-Sevilla)
+    * [Sevilla Xamarin Developer Group](http://www.meetup.com/SevillaXamarinDevelopers)
+    * [Python Sevilla](http://www.meetup.com/Python-Sevilla/)
+    * [GDG Sevilla](http://www.meetup.com/GDGSevilla/)
+    * [Cartuja.NET](https://www.meetup.com/es-ES/Cartuja-NET/)
+    * [Sevilla R](https://sevillarusers.netlify.com/)
+    * [Sevilla JS](https://www.meetup.com/es-ES/sevilla-js/)
+    * [Sevilla QA](https://www.meetup.com/es-ES/sevillaQA)
+    * [Databeers Sevilla](https://www.meetup.com/es-ES/Databeers-Sevilla/)
+    * [Ethereum Sevilla](https://www.meetup.com/es-ES/Ethereum-Meetup-Sevilla/)
+    * [Ping a Programadoras!](https://pingprogramadoras.org/)
+    * [The Things Network Sevilla](https://www.thethingsnetwork.org/community/sevilla)
+    * [Sevilla Maker Society](https://www.meetup.com/es-ES/Maker-Society/)	
     * Y muchos otros que están todavía por nacer.
 
     > Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos encontremos y conozcamos.
